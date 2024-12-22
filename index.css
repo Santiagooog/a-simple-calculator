@@ -1,4 +1,10 @@
 body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;  
+  
+  background-color: rgb(17, 17, 22);
   display:flex;
   justify-content:center;
 }
@@ -7,6 +13,7 @@ h1{
   color: #ffffffc5;
 }
 .container{
+  
   border-radius:30px;
   padding:35px;
   background-color: #413b3b;
